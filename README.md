@@ -61,6 +61,6 @@ Registered service worker:
 Cache Storage:
 <img width="1013" alt="Screenshot 2023-05-01 at 11 20 16 PM" src="https://user-images.githubusercontent.com/119374215/235572735-9c6d0067-e0d2-4de1-8927-f642d5db0ad3.png">
 
-Indexed DB:
+Manifest File:
 <img width="1013" alt="Screenshot 2023-05-01 at 11 26 40 PM" src="https://user-images.githubusercontent.com/119374215/235573330-43ae7b31-40a1-4b96-8d70-baa468efc06f.png">
 
