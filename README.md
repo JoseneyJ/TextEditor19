@@ -52,12 +52,12 @@ THEN I should have proper build scripts for a webpack application
 https://arcane-hamlet-10067.herokuapp.com
 
 ## Application Snippets
+
 <img width="982" alt="Screenshot 2023-05-01 at 11 18 09 PM" src="https://user-images.githubusercontent.com/119374215/235572500-ba93a3b3-0958-414d-b66e-73fb5473ca47.png">
 
 <img width="947" alt="Screenshot 2023-05-01 at 11 19 38 PM" src="https://user-images.githubusercontent.com/119374215/235572664-3da60d2e-1efc-482a-ac9c-97b012ea0d47.png">
 
 <img width="1013" alt="Screenshot 2023-05-01 at 11 20 16 PM" src="https://user-images.githubusercontent.com/119374215/235572735-9c6d0067-e0d2-4de1-8927-f642d5db0ad3.png">
 
-<img width="1013" alt="Screenshot 2023-05-01 at 11 21 27 PM" src="https://user-images.githubusercontent.com/119374215/235572825-2760c0d0-4f93-48e8-9d69-0f3aede0e4d5.png">
-
+<img width="1013" alt="Screenshot 2023-05-01 at 11 26 40 PM" src="https://user-images.githubusercontent.com/119374215/235573330-43ae7b31-40a1-4b96-8d70-baa468efc06f.png">
 
