@@ -66,9 +66,12 @@ Cache Storage:
 
 
 Manifest File:
-<img width="1013" alt="Screenshot 2023-05-01 at 11 26 40 PM" src="https://user-images.githubusercontent.com/119374215/235573330-43ae7b31-40a1-4b96-8d70-baa468efc06f.png">
+
+<img width="1435" alt="Screenshot 2023-05-01 at 11 48 31 PM" src="https://user-images.githubusercontent.com/119374215/235575428-05e38c2a-8c6f-414e-b6e0-6cca7ff33bf7.png">
+
 
 IndexedDB:
 
-<img width="835" alt="Screenshot 2023-05-01 at 11 37 50 PM" src="https://user-images.githubusercontent.com/119374215/235574410-0d46a977-5b77-4bdb-a095-6d84231dcbc1.png">
+<img width="1435" alt="Screenshot 2023-05-01 at 11 49 39 PM" src="https://user-images.githubusercontent.com/119374215/235575543-03505c29-2b8c-4931-ae2d-2001f3704a41.png">
+
 
