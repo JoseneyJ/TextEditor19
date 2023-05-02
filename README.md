@@ -61,7 +61,9 @@ Registered service worker:
 
 
 Cache Storage:
-<img width="1013" alt="Screenshot 2023-05-01 at 11 20 16 PM" src="https://user-images.githubusercontent.com/119374215/235572735-9c6d0067-e0d2-4de1-8927-f642d5db0ad3.png">
+
+<img width="1435" alt="Screenshot 2023-05-01 at 11 46 29 PM" src="https://user-images.githubusercontent.com/119374215/235575256-a83ceb4c-3129-4eb9-a82c-37a9732b8579.png">
+
 
 Manifest File:
 <img width="1013" alt="Screenshot 2023-05-01 at 11 26 40 PM" src="https://user-images.githubusercontent.com/119374215/235573330-43ae7b31-40a1-4b96-8d70-baa468efc06f.png">
