@@ -58,8 +58,9 @@ https://arcane-hamlet-10067.herokuapp.com
 Registered service worker:
 <img width="947" alt="Screenshot 2023-05-01 at 11 19 38 PM" src="https://user-images.githubusercontent.com/119374215/235572664-3da60d2e-1efc-482a-ac9c-97b012ea0d47.png">
 
-
+Cache Storage:
 <img width="1013" alt="Screenshot 2023-05-01 at 11 20 16 PM" src="https://user-images.githubusercontent.com/119374215/235572735-9c6d0067-e0d2-4de1-8927-f642d5db0ad3.png">
 
+Indexed DB:
 <img width="1013" alt="Screenshot 2023-05-01 at 11 26 40 PM" src="https://user-images.githubusercontent.com/119374215/235573330-43ae7b31-40a1-4b96-8d70-baa468efc06f.png">
 
